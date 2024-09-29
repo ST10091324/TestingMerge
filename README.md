@@ -78,3 +78,4 @@ Users can save their graphs and charts to their devices storage via one of two b
 As a team, we used GitHub to collaborate effectively on developing our application. We created a shared repository to host the project's source code, allowing each member to clone, modify, and contribute to the project. Through branching, team members could work on different features or bug fixes simultaneously without interfering with each other's progress. By using GitHub Actions, we automated tests and deployment processes, making the development cycle more efficient. This collaborative approach helped us maintain version control, improve team coordination, and deliver a well-organized, high-quality application.
 
 Thank you for using our application :) 
+Geebrerufd (For merge conflictasfgs)
